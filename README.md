@@ -1,8 +1,8 @@
-# The Jokebon
+# The Jokebox
 CS 312 Mini Project 2
 
 ## Table of Contents
-- [The Jokebon](#the-jokebon)
+- [The Jokebox](#the-jokebox)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Features](#features)
