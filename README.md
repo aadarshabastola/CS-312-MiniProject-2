@@ -19,7 +19,7 @@ To install and run this project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/CS-312-MiniProject-2.git
+    git clone https://github.com/aadarshabastola/CS-312-MiniProject-2.git
     ```
 2. Navigate to the project directory:
     ```sh
